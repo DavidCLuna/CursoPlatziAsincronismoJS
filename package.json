@@ -1,0 +1,16 @@
+{
+    "name": "projectclase",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "deploy": "gh-pages -d src"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "node-fetch": "^3.2.6"
+    },
+    "type": "module"
+}
